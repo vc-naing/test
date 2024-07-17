@@ -126,9 +126,6 @@
                     <div class="text-center text-sm text-gray-500 dark:text-gray-400 sm:text-right sm:ml-0">
                     Hello World 123
                     </div>
-
-                    <!-- want to add hello world 123 -->
-                    <p></p>
                 </div>
             </div>
         </div>
